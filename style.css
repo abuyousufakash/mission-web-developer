@@ -53,3 +53,20 @@ h2{
 #mvg-3{
     background-color: seashell;
 }
+footer h3{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer{
+   margin-top: 50px;
+   color: rgb (245, 245, 245);
+   padding: 20px;
+   background-color: black;
+}
+.footer-color{
+    color: orange;
+}
+#hard{
+    font-size: 12px;
+}
